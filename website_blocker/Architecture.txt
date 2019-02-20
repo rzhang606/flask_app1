@@ -1,0 +1,8 @@
+Program Architecture
+
+C:\Windows\System32\drivers\etc\hosts
+
+To have this program automatically run, 
+set it up as a new task in "task scheduler" on windows
+
+Run from highest privileges because it needs admin rights to edit the file
